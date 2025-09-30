@@ -7,6 +7,7 @@ const App = () => {
     <div>
       <Navigation />
       <HeroSection />
+      {/* Other components can be added here */}
     </div>
   )
 }
